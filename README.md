@@ -17,8 +17,10 @@ When Vo= - Vsat, the voltage across R1 is referred to as lower threshold voltage
 <img width="550" height="416" alt="image" src="https://github.com/user-attachments/assets/fb8c952f-c4e7-4c7d-a313-6b07db47def8" />
 
 ## TABULATION:
+![WhatsApp Image 2025-11-23 at 7 10 44 PM (1)](https://github.com/user-attachments/assets/f7741333-9678-4ba3-ab3e-af124b471794)
 
 ## GRAPH:
+![WhatsApp Image 2025-11-23 at 7 11 06 PM (1)](https://github.com/user-attachments/assets/aab95046-dcaf-4d94-bd8d-e28b3e6a52d0)
 
 ## DESIGN:
 1. Select the desire value of Vut & Vlt with same magnitude & opposite polarity.
@@ -44,3 +46,4 @@ When Vo= - Vsat, the voltage across R1 is referred to as lower threshold voltage
 5.	Plot the graph & show the relationship between Input sine wave & Output
 
 ## RESULT:
+![WhatsApp Image 2025-11-23 at 7 11 14 PM (1)](https://github.com/user-attachments/assets/6c96a076-c6ce-419a-a858-ab6c086c724c)
